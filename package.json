@@ -1,0 +1,93 @@
+{
+  "_from": "react-stockcharts@^0.7.0",
+  "_id": "react-stockcharts@0.7.0",
+  "_inBundle": false,
+  "_integrity": "sha512-abswqKA23ewhm8qVrZLj/d/Lx/uGKremP08k9pGPxcfk96V0PLiEJFOht0bNFO1+/NLlDupNw39brgTAXs9P6w==",
+  "_location": "/react-stockcharts",
+  "_phantomChildren": {
+    "ms": "2.0.0"
+  },
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "react-stockcharts@^0.7.0",
+    "name": "react-stockcharts",
+    "escapedName": "react-stockcharts",
+    "rawSpec": "^0.7.0",
+    "saveSpec": null,
+    "fetchSpec": "^0.7.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-stockcharts/-/react-stockcharts-0.7.0.tgz",
+  "_shasum": "8940c58a362df542518f6a498d5170945944bcf0",
+  "_spec": "react-stockcharts@^0.7.0",
+  "_where": "C:\\Users\\Jay.DESKTOP-GJS6CQM\\excro-frontend",
+  "author": {
+    "name": "Ragu Ramaswamy"
+  },
+  "bugs": {
+    "url": "https://github.com/rrag/react-stockcharts/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "d3-array": "^1.2.1",
+    "d3-collection": "^1.0.4",
+    "d3-force": "^1.1.0",
+    "d3-format": "^1.2.1",
+    "d3-interpolate": "^1.1.6",
+    "d3-path": "^1.0.5",
+    "d3-scale": "^1.0.7",
+    "d3-selection": "^1.2.0",
+    "d3-shape": "^1.2.0",
+    "d3-time": "^1.0.8",
+    "d3-time-format": "^2.1.1",
+    "debug": "^3.1.0",
+    "lodash.flattendeep": "^4.4.0",
+    "prop-types": "^15.6.0",
+    "save-svg-as-png": "^1.2.0"
+  },
+  "deprecated": false,
+  "description": "Highly customizable stock charts with ReactJS and d3",
+  "esnext": "es/index.js",
+  "homepage": "http://rrag.github.io/react-stockcharts/",
+  "keywords": [
+    "charts",
+    "charting",
+    "stockcharts",
+    "finance",
+    "financechart",
+    "react",
+    "ReactJS",
+    "d3",
+    "react-component",
+    "react-charts",
+    "chart-components",
+    "javascript-finance-chart",
+    "javascript-stockchart",
+    "data-visualization",
+    "data-viz",
+    "d3-finance-chart",
+    "d3-stockchart"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "rrag",
+      "email": "ragunath.ramaswamy@gmail.com"
+    }
+  ],
+  "module": "es/index.js",
+  "name": "react-stockcharts",
+  "peerDependencies": {
+    "react": "^15.0.0 || ^16.0.0",
+    "react-dom": "^15.0.0 || ^16.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rrag/react-stockcharts.git"
+  },
+  "version": "0.7.0"
+}
